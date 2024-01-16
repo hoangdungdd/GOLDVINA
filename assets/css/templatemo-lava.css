@@ -207,6 +207,7 @@ button.main-button:hover {
 
 
 .center-heading {
+  
   margin-bottom: 70px;
 }
 
@@ -225,7 +226,7 @@ button.main-button:hover {
 }
 
 .center-heading p {
-  font-size: 15px;
+  font-size: 18px;
   color: #888;
   text-align: center;
 }
@@ -1068,7 +1069,7 @@ footer .right-content {
 
 .footer-content .right-content h2 em {
   font-style: normal;
-  color: #fba70b;
+  color: #ff9f05;
 }
 
 .footer-content .right-content p {
