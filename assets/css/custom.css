@@ -1,0 +1,34 @@
+#about  p{
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+#about-label{
+    border-bottom: 0.2rem solid #fba70b;
+}
+
+#introduce {
+    padding: 100px 0px;
+    position: relative;
+    z-index: 9;
+    margin: 5%;
+}
+
+#introduce p{
+    margin-top: 10px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+}
+
+#introduce-label{
+    border-bottom: 0.2rem solid #fba70b;
+}
+
+#introduce img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: 5%;
+}
