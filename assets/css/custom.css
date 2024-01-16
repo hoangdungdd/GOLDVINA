@@ -1,4 +1,4 @@
-#about  p{
+#about h5{
     margin-top: 10px;
     font-size: 18px;
 }
@@ -38,7 +38,7 @@
     max-height: 4rem;
     align-self: center;
  
-    display: block;
+    display: inline-block;
     margin-left: auto;
     margin-right: auto;
 }
