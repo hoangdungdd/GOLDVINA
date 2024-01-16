@@ -273,9 +273,10 @@ header
 }
 
 .header-area .main-nav {
- 
+  display: flex;
   min-height: 80px;
   background: #fff;
+  align-items: center;
 }
 
 .header-area .main-nav .logo {
